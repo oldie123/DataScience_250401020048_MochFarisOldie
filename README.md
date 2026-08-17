@@ -66,4 +66,4 @@ Hal paling penting yang saya pelajari adalah bahwa Data Science tidak hanya tent
 
 ## Catatan
 
-Repository ini diperbarui bertahap setiap pertemuan dan setiap notebook siap dijalankan ulang dari awal menggunakan `Kernel -> Restart & Run All`.
+Repository ini diperbarui bertahap setiap pertemuan dan setiap notebook siap dijalankan ulang dari awal menggunakan `Kernel -> Restart & Run All`. Notebook juga dapat dibuka langsung di Google Colab melalui menu *File -> Upload notebook* untuk menjalankannya secara daring.
