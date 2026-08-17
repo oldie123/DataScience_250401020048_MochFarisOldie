@@ -63,3 +63,7 @@ Melalui praktikum Pertemuan 1 sampai 13, saya mempelajari alur Data Science seca
 Selanjutnya saya mempelajari klasifikasi dengan Logistic Regression dan Decision Tree serta mengevaluasinya dengan Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score; Random Forest untuk menangani dataset tidak seimbang (imbalanced) seperti prediksi Customer Churn; clustering (K-Means dan Hierarchical) sebagai unsupervised learning untuk menemukan kelompok pelanggan; association rule (Apriori) untuk market basket analysis; sistem rekomendasi sederhana (content-based dan collaborative filtering); serta pengenalan deep learning (Artificial Neural Network) dan NLP dengan analisis sentimen menggunakan TF-IDF.
 
 Hal paling penting yang saya pelajari adalah bahwa Data Science tidak hanya tentang membuat model, tetapi juga memahami data, membersihkan data, memilih fitur, menampilkan pola melalui visualisasi, dan mengevaluasi hasil secara terukur — termasuk memahami bahwa pada data yang tidak seimbang, accuracy saja bisa menyesatkan sehingga metrik seperti recall, precision, F1-score, dan ROC-AUC lebih relevan. Keterbatasan repository ini adalah beberapa contoh masih menggunakan dataset sintetis atau dataset kecil, sehingga tahap berikutnya adalah berlatih dengan dataset nyata yang lebih besar dan lebih kompleks.
+
+## Catatan
+
+Repository ini diperbarui bertahap setiap pertemuan dan setiap notebook siap dijalankan ulang dari awal menggunakan `Kernel -> Restart & Run All`.
