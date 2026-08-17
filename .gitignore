@@ -1,0 +1,15 @@
+# Materi kuliah (tidak dimasukkan ke repository portofolio)
+*.pdf
+*.ppt
+*.pptx
+modul_*.py
+
+# Artefak Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.nbcheck/
+
+# Lainnya
+.DS_Store
+Thumbs.db
